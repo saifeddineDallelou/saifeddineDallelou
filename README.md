@@ -14,7 +14,7 @@
 
 ## `> whoami`
 
-Second-year Computer Science Engineering student at **ESPRIT**, specializing in cybersecurity. I enjoy turning security telemetry into actionable investigations - from alert triage and threat hunting to IOC enrichment, vulnerability intelligence, and incident documentation.
+Final-year Computer Science Engineering student at **ESPRIT**, specializing in cybersecurity. I enjoy turning security telemetry into actionable investigations - from alert triage and threat hunting to IOC enrichment, vulnerability intelligence, and incident documentation.
 
 - 🔎 Focused on **SOC operations, threat intelligence, incident response, and security automation**
 - 🛠️ Building secure, on-premise solutions with **SIEM, CTI, SOAR, and AI-assisted analysis**
