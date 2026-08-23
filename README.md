@@ -7,8 +7,6 @@
 ### Cybersecurity Engineering Student · SOC Analyst · Threat Intelligence
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seifeddine-dallelou-877262397/)
-![Open to Internship](https://img.shields.io/badge/Open%20to-2--Month%20Cybersecurity%20Internship-00B894?style=for-the-badge&logo=securityscorecard&logoColor=white)
-![Tunisia](https://img.shields.io/badge/Based%20in-Tunisia-E0245E?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
