@@ -18,7 +18,7 @@ Final-year Computer Science Engineering student at **ESPRIT**, specializing in c
 
 - 🔎 Focused on **SOC operations, threat intelligence, incident response, and security automation**
 - 🛠️ Building secure, on-premise solutions with **SIEM, CTI, SOAR, and AI-assisted analysis**
-- 🎯 Seeking a **2-month cybersecurity internship** where I can contribute to a SOC or blue-team environment
+
 
 ## 🧭 Security focus
 
